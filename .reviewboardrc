@@ -1,0 +1,5 @@
+REVIEWBOARD_URL = "http://localhost:8081/"
+REPOSITORY = "hehehe"
+REPOSITORY_TYPE = "git"
+BRANCH = "feature"
+LAND_DEST_BRANCH = "feature"
